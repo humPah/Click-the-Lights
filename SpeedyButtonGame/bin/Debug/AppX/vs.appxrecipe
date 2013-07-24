@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>HUMPAH-PC</Machine>
+    <WindowsUser>matia_000</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>00AAA5CE2E624AE34B52514FEDA67D2A44B9E177E7C10906D3972155923BCF5D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32296humPah.ClicktheLights_1.0.0.0_neutral__759zd1kqx1h9p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32296humPah.ClicktheLights_759zd1kqx1h9p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32296humPah.ClicktheLights</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=67155800-730C-4640-BC22-18F59946F1F7</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-15T16:02:42.894</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\SpeedyButtonGame.exe">
+      <PackagePath>SpeedyButtonGame.exe</PackagePath>
+      <Modified>2012-12-15T16:02:42.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\SpeedyButtonGame.pdb">
+      <PackagePath>SpeedyButtonGame.pdb</PackagePath>
+      <Modified>2012-12-15T16:02:42.079</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-15T11:43:02.305</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-15T09:17:54.179</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-15T11:42:37.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-15T09:18:41.621</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Common\SplashScreen.png">
+      <PackagePath>Common\SplashScreen.png</PackagePath>
+      <Modified>2012-12-15T12:34:44.154</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-12-13T22:26:40.100</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-12-15T10:27:25.202</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\Help.xaml">
+      <PackagePath>Help.xaml</PackagePath>
+      <Modified>2012-12-15T15:23:24.251</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\HighScores.xaml">
+      <PackagePath>HighScores.xaml</PackagePath>
+      <Modified>2012-12-15T15:27:57.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-15T12:06:36.782</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\stuff\VS\SpeedyButtonGame\SpeedyButtonGame\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-12-15T16:02:42.748</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

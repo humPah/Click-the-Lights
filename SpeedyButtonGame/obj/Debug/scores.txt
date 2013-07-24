@@ -1,0 +1,10 @@
+Bob|500
+e|150
+Rick|95
+Bob|59
+Lisa|50
+Vovo|50
+Sally|49
+Rick|29
+Andy|18
+|10
